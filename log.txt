@@ -1,0 +1,3 @@
+2024-02-01 07:24:01 - Connection to 8.8.8.8 successful
+2024-02-01 07:24:01 - Connection to 9.9.9.9 successful
+-----END-----
